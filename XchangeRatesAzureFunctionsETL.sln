@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunTimeTriggerExchangeRatesAPI", "RunTimeTriggerExchangeRatesAPI\RunTimeTriggerExchangeRatesAPI.csproj", "{69576D22-8564-4BA2-BC58-AFDD3B536CB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9086D551-C38E-4F1C-8BE1-220E68EF2F66}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69576D22-8564-4BA2-BC58-AFDD3B536CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69576D22-8564-4BA2-BC58-AFDD3B536CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69576D22-8564-4BA2-BC58-AFDD3B536CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69576D22-8564-4BA2-BC58-AFDD3B536CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807244E5-C2B7-44D7-A4B9-B5948D6DCF90}
+	EndGlobalSection
+EndGlobal
